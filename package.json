@@ -2,6 +2,9 @@
   "name": "fetiche",
   "version": "0.0.0",
   "description": "A magic item which will lead your project to successful development.",
+  "keywords": [
+    "digital-fetish"
+  ],
   "repository": "https://github.com/yuhr/fetiche.git",
   "author": "yuhr <mail@yuhr.org>",
   "license": "CC0-1.0"
