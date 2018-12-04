@@ -11,5 +11,5 @@ Although the package is distributed upon the NPM infrastructure, Fétiche's meta
 Just install this package into your project.
 
 ```
-npm install fetiche
+npm install --save fetiche
 ```
